@@ -3,4 +3,4 @@ ghpages
 
 Some random gh-pages
 
-- a blog
+- a blog http://zjiekai.github.io/ghpages/
